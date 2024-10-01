@@ -1,0 +1,26 @@
+h1 {
+    color: rgb(8, 8, 70);
+    font-size: 26px;
+    margin-top: 50px;
+    line-height: 30px;
+}
+h2 {
+    color: rgb(54, 54, 188);
+    font-size: 22px;
+    margin-top: 20px;
+    line-height: 26px;
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 30px;
+}
+article {
+    margin-left: 20px;
+    color: rgb(100, 163, 215);
+}
+
+q {
+    color: rgb(230, 146, 1);
+    font-style: italic;
+    font-size: 16px;
+}
